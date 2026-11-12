@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<text date="02-12-2022"
+    section="Chancen-Aufenthaltsgesetz: Bundestag beschließt rechtliche Verbesserungen für Geduldete">
+    <inst id="" frame="Integration">Und der Bundestag hat <element type="fe" frame="Integration"
+            slot="Grund" id="" relation="" level="0" parent=""><element type="fee"
+                frame="Verbesserung_oder_Verschlechterung" level="1" parent="Integration" slot=""
+                relation="">Verbesserungen</element></element> für <element type="fe"
+            frame="Integration" slot="Akteur" id="" relation="" level="0" parent=""><element
+                type="fee" frame="Personen_nach_Herkunft" level="1" parent="Integration" slot=""
+                relation="">Ausländer</element> beschlossen , die nur geduldet sind</element> . Wenn
+        sie <element type="fe" frame="Integration" slot="Teil" id="" relation="" level="0" parent=""
+                ><element type="fee" frame="Absichtlich_handeln" level="1" parent="Integration"
+                slot="" relation="">sich</element></element>
+        <element type="fee" frame="Integration" level="0" parent="" slot="" relation=""
+            >integriert</element> haben , sollen sie 18 Monate Zeit bekommen : Um ihre Chancen auf
+        einen dauerhaften Aufenthalt zu verbessern .</inst> 
+		
+(gelöschter Text)
+		. </text>

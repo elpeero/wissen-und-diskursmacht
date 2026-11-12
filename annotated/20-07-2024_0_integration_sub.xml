@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text date="20-07-2024"
+    section="Sozialverbände kritisieren die Regierung wegen ihrer Pläne Migrationsangebote zu kürzen"> 
+(gelöschter Text)
+	<inst id="" frame="Integration"><element type="fe"
+            frame="Integration" slot="Akteur|Teil" id="1213" relation="" level="0" parent=""><element
+                type="fee" frame="Personen_nach_Alter" level="1" parent="Integration" slot=""
+                relation="">Claudia Solis ( 38 )</element></element> möchte sich <element type="fee"
+            frame="Integration" level="0" parent="" slot="" relation="">integrieren</element> .
+            <element type="fe" frame="Integration" slot="Dauer" id="1160" relation="" level="0"
+            parent=""><element type="fee" frame="Beschreibung_Dauer" level="1" parent="Integration"
+                slot="" relation="">Vor vier Jahren</element> kam sie aus Chile</element> , um auf
+        Englisch zu studieren . <element type="fe" frame="Integration" slot="Grund" id="211"
+            relation="" level="0" parent=""><element type="fee" frame="Voraussetzung_Szenario"
+                level="1" parent="Integration" slot="" relation="">Um</element> arbeiten zu
+            können</element> , <element type="fe" frame="Integration" slot="Maßnahmen" id="48"
+            relation="" level="0" parent="">besucht sie den <element type="fee" frame="Bildung_Lehre"
+                level="1" parent="Integration" slot="" relation="">Integrationskurs</element> in
+            Stuttgart</element> . Ich möchte lernen Deutsch . Wenn ich gut Deutsch spreche , kann
+        ich in meinem studierten Beruf arbeiten .</inst>
+    <inst id="" frame="Integration"><element type="fe" frame="Integration" slot="Akteur|Teil" relation=""
+            level="0" parent="">Asylbewerber , Studierende aber auch Fachkräfte mit Visum oder
+            Aufenthaltstitel : Die Hintergründe der Teilnehmenden sind <element type="fee"
+                frame="Diversität" level="1" parent="Integration" slot="" relation=""
+                >verschieden</element></element> , aber sie alle <element type="fe"
+            frame="Integration" slot="Grund" id="307" relation="" level="0" parent=""><element
+                type="fee" frame="Bereitschaft" level="1" parent="Integration" slot="" relation=""
+                >wollen</element> in Deutschland leben und arbeiten</element> . Doch diese <element
+            type="fe" frame="Integration" slot="Umstände" id="" relation="" level="0" parent=""
+                ><element type="fee" frame="Integration" level="0" parent="" slot="" relation=""
+                >Integration</element>
+            <element type="fee" frame="Geld" level="1" parent="Integration" slot="" relation=""
+                >kostet Geld</element> und wird mit Bundesmitteln <element type="fee"
+                frame="Unterstützen" level="1" parent="Integration" slot="" relation=""
+                >gefördert</element> . Die sollen laut dem Haushaltsentwurf für 2025 mehr als
+            halbiert werden .</element></inst> Dann müssten wir schauen : Bleiben wir in dem Umfang
+    , können wir unsere Kursleiterinnen und Kinderbetreuer beschäftigen ? Können wir die Nachfrage
+    bedienen ? <inst id="" frame="Integration">Mehr <element type="fee" frame="Integration"
+            level="0" parent="" slot="" relation="">Integration</element> statt weniger sei
+        notwendig , sagt Boris Nieswand von der Universität Tübingen . Allein , <element type="fe"
+            frame="Integration" slot="Grund" id="1176" relation="" level="0" parent="">um den
+                <element type="fee" frame="Knappheit" level="1" parent="Integration" slot=""
+                relation="">Fachkräftemangel</element> ausgleichen</element> . Wir werden dem <element
+            type="fe" frame="Integration" slot="Umstände" id="1049" relation="" level="0" parent=""
+            >Integrationssystem</element> , das wir mühsam aufgebaut haben , nachhaltigen
+                <element type="fee" frame="Beschädigen" level="1" parent="Integration" slot=""
+                relation="">Schaden zufügen</element> .</inst> 
+(gelöschter Text)
+				</text>

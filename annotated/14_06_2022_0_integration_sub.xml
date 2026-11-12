@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text date="14-06-2022"
+    section="Bundesinnenministerin Faeser und Arbeitsminister Heil besuchen Einrichtung für Flüchtlinge">
+(gelöschter Text)
+	<inst id="" frame="Integration"><element type="fe"
+            frame="Integration" level="0" slot="Grund" id="" relation="" parent="">Der Arbeitsmarkt
+                <element type="fee" frame="Suchen" level="1" parent="Integration" slot=""
+                >sucht</element> Fachkräfte .</element>
+        <element type="fe" frame="Integration" slot="Akteur" id="" relation="" level="0"><element
+                id="" type="fee" frame="Institutionen" level="1" parent="Integration" slot=""
+                relation="">Die Minister</element></element> versprechen Hilfe und <element
+            type="fee" frame="Integration" parent="" slot="" relation="" level="0"
+            >Integration</element> in den <element type="fe" frame="Integration" slot="Ganzes"
+            evokes="" id="" relation="" level="0" parent="Integration"><element id="" type="fee"
+                frame="Handel_Szenario" level="1" parent="Integration" slot="" relation=""
+                >Arbeitsmarkt</element></element> . 850.000 <element type="fe" frame="Integration" slot="Teil"
+            id="" relation="" level="0" parent=""><element id="" type="fee"
+                frame="Personen_nach_Herkunft" level="1" parent="Integration" slot="" relation=""
+                >Geflüchtete aus der Ukraine</element></element> sind in Deutschland registriert .
+        Wir haben die Situation , die Geflüchteten in unser Sozialsystem aufzunehmen . Das ist ein
+        folgerichtiger Schritt . Sonst würden sie im Asylbewerber - Leistungsrecht hängen . <element
+            type="fe" frame="Integration" slot="Umstände" id="" relation="" level="0" parent="">Job
+            - Center sollen sich um die Geflüchteten <element id="" type="fee" frame="Unterstützen"
+                level="1" parent="Integration" slot="" relation="">kümmern</element></element> .Sie
+        sollen <element type="fe" frame="Integration" slot="Maßnahmen" id="" relation="" level="0"
+            parent=""><element id="" type="fee" frame="Bildung_Lehre" level="1" parent="Integration"
+                slot="" relation="">Sprachkurse</element> organisieren</element> .</inst>
+(gelöschter Text)
+				<inst id="" frame="Integration"><element
+            type="fe" frame="Integration" slot="Umstände" relation="" level="0" parent="">Es gibt
+                <element id="" type="fee" frame="Ähnlichkeit" level="1" parent="Integration" slot=""
+                relation="">unterschiedlichen</element> Rechtstatus</element> . Aber das , was wir
+        hier besser machen , <element type="fe" frame="Integration" slot="Folgen" relation=""
+            level="0" parent="">wird am Deutschland <element id="" type="fee"
+                frame="Verbesserung_oder_Verschlechterung" level="1" parent="Integration" slot=""
+                relation="">besser machen</element></element> . <element id="" type="fe"
+            frame="Integration" level="0" parent="" slot="Maßnahmen" relation="">Durch mehr <element
+                id="" type="fee" frame="Bildung_Lehre" level="1" parent="Integration" slot=""
+                relation="">Kita - und Schulplätze</element></element> sollen auch Kinder <element
+            id="" type="fee" frame="Integration" level="0" parent="" slot="" relation=""
+            >integriert</element> werden .</inst>
+</text>

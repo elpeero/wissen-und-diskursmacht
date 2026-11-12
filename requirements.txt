@@ -1,0 +1,3 @@
+beautifulsoup4==4.8.2
+networkx==3.4.2
+gravis==0.1.0

@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Wissen und Diskursmacht zwischen Tagesschau und YouTube:
+  Begleitmaterial
+message: >-
+  This is accompanying material for the article Knowledge
+  and Discursive Power Between Tagesschau and YouTube: A
+  Frame-Semantic Analysis (translation of German title).
+  Please cite this material only to refer explicitly to the
+  software itself. Otherwise, please cite the corresponding
+  article published under the DOI
+  10.5771/2509-9485-2026-013.
+type: software
+authors:
+  - given-names: Peer
+    family-names: Scholl
+    email: peer.scholl@uni-leipzig.de
+    affiliation: Universität Leipzig
+    orcid: 'https://orcid.org/0009-0008-5062-3341'
+repository-code: 'https://elpeero.github.io/diskursmacht-oer/'
+license: CC-BY-NC-SA-4.0
+date-released: '2026-11-12'

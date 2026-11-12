@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text date="04-07-2024" section="OECD-Bericht gibt Deutschland gute Noten für Integration">
+    <inst id="" frame="Integration">Im internationalen Vergleich schneidet <element type="fe"
+            frame="Integration" slot="Akteur" evokes="" relation="" level="0" parent=""><element
+                id="" type="fee" frame="Politische_Örtlichkeit|Ausland_oder_Inland" level="1"
+                parent="Integration" slot="" relation="">Deutschland</element></element> bei der
+            <element id="" type="fee" frame="Integration" level="0" parent="" slot="" relation=""
+            >Eingliederung</element> von <element type="fe" frame="Integration" slot="Teil"
+            relation="" level="0" parent=""><element id="" type="fee" frame="Personen_nach_Herkunft"
+                level="1" parent="Integration" slot="" relation="">Einwanderern mit
+                Kindern</element></element> gut ab. Die Organisation für wirtschaftliche
+        Zusammenarbeit und Entwicklung, OECD, nennt zum Beispiel den <element frame="Integration"
+            slot="Maßnahmen" relation="" level="0" parent="">hohen Anteil an <element id=""
+                type="fee" frame="Erwerbstätigkeit" level="1" parent="Integration" slot=""
+                relation="">Erwerbstätigen</element> oder <element id="" type="fee"
+                frame="Kompetenz" level="1" parent="Integration" slot="" relation="">gute
+                Sprachkenntnisse</element></element>.</inst>
+    <inst id="" frame="Integration">Es habe sich gelohnt, dass <element type="fe"
+            frame="Integration" slot="Akteur" evokes="Politische_Örtlichkeit" relation="" level="0"
+            parent=""><element id="" type="fee" frame="Politische_Örtlichkeit|Ausland_oder_Inland"
+                level="1" parent="Integration" slot="" relation="">Deutschland</element></element>
+        viel in <element id="" type="fee" frame="Integration" level="0" parent="" slot=""
+            relation="">Integration</element>
+        <element type="fe" frame="Integration" slot="Maßnahmen" relation="" level="0" parent=""
+                ><element id="" type="fee" frame="Geld" level="1" parent="Integration" slot=""
+                relation="">investiert</element></element> habe.</inst> 
+(gelöschter Text)
+				<inst id="" frame="Integration">Da
+        aber auch viele <element type="fe" frame="Integration" slot="Akteur" relation="" level="0"
+            parent=""><element id="" type="fee" frame="Personen_nach_Herkunft" level="1"
+                parent="Integration" slot="" relation="">Menschen aus Ländern wie Syrien oder
+                Afghanistan</element></element> kommen , gibt es ein anderes Problem . Jeder sechste
+        Einwandernde hat keinen Hauptschulabschluss . Diese Gruppe tut sich schwer im <element
+            type="fe" frame="Integration" slot="Ganzes" relation="" level="0" parent=""><element
+                id="" type="fee" frame="Handel_Szenario" level="1" parent="Integration" slot=""
+                relation="">Arbeitsmarkt</element></element> und beim Spracherwerb . Wenn sie diese
+        Hürde schaffen , den <element type="fe" frame="Integration" slot="Maßnahmen" evokes=""
+            relation="" level="0" parent=""><element id="" type="fee" frame="Bildung_Lehre"
+                level="1" parent="Integration" slot="" relation="">Haupt - oder
+                Realschulabschluss</element></element> , sind die Ergebnisse merklich besser .
+            <element id="" type="fee" frame="Integration" level="0" parent="" slot="" relation=""
+            >Integration</element>
+        <element type="fe" frame="Integration" slot="Phasen" relation="" level="0" parent="">über
+                <element id="" type="fee" frame="Bildung_Lehre|Kommunikation" level="1"
+                parent="Integration" slot="" relation="">Bildung und die Sprache</element></element>
+        .</inst> 
+(gelöschter Text)
+		</text>

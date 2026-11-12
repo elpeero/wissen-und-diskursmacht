@@ -1,0 +1,763 @@
+{
+    'Absichtlich_handeln': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Absichtlich_handeln',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=479',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Personen_nach_Gerichtsbarkeit': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Personen_nach_Gerichtsbarkeit',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=12',
+        'urldate': '21.04.2026',
+        'type': 'frame'
+    },
+    'Militär': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Militär',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=224',
+        'urldate': '21.04.2026',
+        'type': 'frame'
+    },
+    'Kompetenz': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Kompetenz',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=163',
+        'urldate': '21.04.2026',
+        'type': 'frame'
+    },
+    'Herkunft': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Herkunft',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=47',
+        'urldate': '05.10.2025',
+        'type': 'frame'
+    },
+    'Knappheit': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Knappheit',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=284',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Quantifizierte_Menge': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Quantifizierte_Menge',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=423',
+        'urldate': '08.10.2025',
+        'type': 'frame'
+    },
+    'Suchen': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Suchen',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=799',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Versorgung': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Versorgung',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=156',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Ähnlichkeit': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Ähnlichkeit',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=1074',
+        'urldate': '09.10.2025',
+        'type': 'frame'
+    },
+    'Ankommen': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Ankommen',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=1104',
+        'urldate': '09.10.2025',
+        'type': 'frame'
+    },
+    'Bewertender_Vergleich': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Bewertender_Vergleich',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=985',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Handel_Szenario': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Handel_Szenario',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=1174',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Bildung_Lehre': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Bildung_Lehre',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=48',
+        'urldate': '30.09.2025',
+        'type': 'frame'
+    },
+    'Erwerbstätigkeit': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Erwerbstätigkeit',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=849',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Fähigkeit': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Fähigkeit',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=1221',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Flüchten': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Flüchten',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=324',
+        'urldate': '05.10.2025',
+        'type': 'frame'
+    },
+    'Grad_des_Kraftwiderstandes': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Grad_des_Kraftwiderstandes',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=528',
+        'urldate': '07.10.2025',
+        'type': 'frame'
+    },
+    'Inkrement': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Inkrement',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=3',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Institutionen': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Institutionen',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=285',
+        'urldate': '08.10.2025',
+        'type': 'frame'
+    },
+    'Körperbewegung': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Körperbewegung',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=279',
+        'urldate': '30.09.2025',
+        'type': 'frame'
+    },
+    'Personen_nach_Herkunft': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Personen_nach_Herkunft',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=1214',
+        'urldate': '09.10.2025',
+        'type': 'frame'
+    },
+    'Erfolgreiche_Vollendung': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Erfolgreiche_Vollendung',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=227',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Schwierigkeit': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Schwierigkeit',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=1007',
+        'urldate': '05.10.2025',
+        'type': 'frame'
+    },
+    'Grenze': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Grenze',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=958',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Ereignisdauer_ändern': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Ereignisdauer_ändern',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=372',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Behindern': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Behindern',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=1073',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Beschädigen': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Beschädigen',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=1049',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Bewerten': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Bewerten',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=1096',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Erwarteter_Standort_der_Person': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Erwarteter_Standort_der_Person',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=298',
+        'urldate': '05.10.2025',
+        'type': 'frame'
+    },
+    'Geld': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Geld',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=366',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Menschen': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Menschen',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=933',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Personen_nach_Alter': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Personen_nach_Alter',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=1213',
+        'urldate': '09.10.2025',
+        'type': 'frame'
+    },
+    'Politische_Örtlichkeit': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Politische_Örtlichkeit',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=472',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Gewissheit': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Gewissheit',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=185',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Umfassen': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Umfassen',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=70',
+        'urldate': '30.09.2025',
+        'type': 'frame'
+    },
+    'Voraussetzung_Szenario': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Voraussetzung_Szenario',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=211',
+        'urldate': '05.10.2025',
+        'type': 'frame'
+    },
+    'Arbeit': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Arbeit',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=425',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Ausland_oder_Inland': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Ausland_oder_Inland',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=208',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Bereitschaft': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Bereitschaft',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=307',
+        'urldate': '05.10.2025',
+        'type': 'frame'
+    },
+    'Diversität': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Diversität',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=426',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Dokumente': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Dokumente',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=1109',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Eigenbewegung': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Eigenbewegung',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=1124',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Emotionen_durch_Stimulus': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Emotionen_durch_Stimulus',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=513',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Verbesserung_oder_Verschlechterung': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Verbesserung_oder_Verschlechterung',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=926',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Unterstützen': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Unterstützen',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=483',
+        'urldate': '05.10.2025',
+        'type': 'frame'
+    },
+    'Kommunikation': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Kommunikation',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=1115',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Unterkunft_Szenario': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Unterkunft_Szenario',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=446',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Beschreibung_Dauer': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Beschreibung_Dauer',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=1160',
+        'urldate': '05.12.2025',
+        'type': 'frame'
+    },
+    'Migranten': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': '2022',
+        'titel': 'Die Bedeutung von Flüchtling, Geflüchtete_r und Migrant_in: Eine frame-semantische Untersuchung zum Diskurs zur sog. Flüchtlingskrise',
+        'url': 'https://library.oapen.org/bitstream/id/9a4549a4-f711-4553-85e5-3daecee85d24/978-3-658-36719-0.pdf',
+        'ort': 'Wiesbaden',
+        'verlag': 'Springer Nature',
+        'isbn': '9783658367190',
+        'reihe': 'Theorie und Praxis der Diskursforschung',
+        'type': 'literature'
+    },
+    'Geflüchtete': {
+        'autor': 'Neumair, Phillip Alexander',
+        'jahr': '2022',
+        'titel': 'Die Bedeutung von Flüchtling, Geflüchtete_r und Migrant_in: Eine frame-semantische Untersuchung zum Diskurs zur sog. Flüchtlingskrise',
+        'url': 'https://library.oapen.org/bitstream/id/9a4549a4-f711-4553-85e5-3daecee85d24/978-3-658-36719-0.pdf',
+        'ort': 'Wiesbaden',
+        'verlag': 'Springer Nature',
+        'isbn': '9783658367190',
+        'reihe': 'Theorie und Praxis der Diskursforschung',
+        'type': 'literature'
+    },
+    'Integration': {
+        'autor': 'Konerding, Klaus-Peter',
+        'jahr': '1993',
+        'titel': 'Frames und lexikalisches Bedeutungswissen: Untersuchungen zur linguistischen Grundlegung einer Frametheorie und zu ihrer Anwendung in der Lexikographie',
+        'ort': 'Berlin, New York',
+        'band': '142',
+        'verlag': 'Max Niemeyer Verlag',
+        'isbn': '978-3-484-31142-8',
+        'reihe': 'Germanistische Linguistik',
+        'doi': '10.1515/9783111674926',
+        'type': 'literature'
+    },
+    '25-04-2022': {
+        'autor': 'Daubner, Susanne',
+        'jahr': '2022',
+        'datum': '25.4.2022',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvYTIyZWM4ODgtMDVlZS00NjcxLWE5OGQtMDkzZDk4ODY4NTNlLzE',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '26-08-2024': {
+        'autor': 'Schröder, Thorsten',
+        'jahr': '2024',
+        'datum': '26.8.2024',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvMjI2YTE1ZDktODc5NC00MDljLWI0YzctMGJmOTRiOTAyYzhkX2dhbnplU2VuZHVuZw',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '29-02-2024': {
+        'autor': 'Schröder, Thorsten',
+        'jahr': '2024',
+        'datum': '29.2.2024',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvZjAzMWYwMjItMTk1MS00MDY3LWFmNWItOWVmOTQ4MzI4NzBjLVNFTkRVTkdTVklERU8',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '30-03-2022': {
+        'autor': 'Schröder, Thorsten',
+        'jahr': '2022',
+        'datum': '30.3.2022',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMzc0OGJjYmMtYjc3Zi00YmYwLThlMWUtYWM4OWM3NTVkMjA4',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '04-07-2024': {
+        'autor': 'Schreiber, Constantin',
+        'jahr': '2024',
+        'datum': '4.7.2024',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvYmUyODBlNGItZDczNy00MTEyLTk2ZDUtMGQyYzNmNzRhMTg0LVNFTkRVTkdTVklERU8',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '23-06-2023': {
+        'autor': 'Schreiber, Constantin',
+        'jahr': '2023',
+        'datum': '23.6.2023',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvOTA2M2ZkZTUtYWE1OS00MjA2LWE0ZjktODEzODFkYmZkZjQ4LVNFTkRVTkdTVklERU8',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '09-12-2022': {
+        'autor': 'Schreiber, Constantin',
+        'jahr': '2022',
+        'datum': '9.12.2022',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvOTRkYmVjMzYtYzAzMi00OTI2LTk5YmQtYmQwZGYxNDhlMTgwLzE',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '07-09-2022': {
+        'autor': 'Schreiber, Constantin',
+        'jahr': '2022',
+        'datum': '7.9.2022',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMWYwZDZlZTUtNGM4MS00NGQ5LTgwMWQtYWY1OTIzNDM5ZmI2LzE',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '08-04-2022': {
+        'autor': 'Schreiber, Constantin',
+        'jahr': '2022',
+        'datum': '8.4.2022',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZjY2NTMzOWQtZTBjOC00MGIyLWFjNmMtYzI1Y2ZjNmM3YWI2',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '20-07-2024': {
+        'autor': 'Riewa, Jens',
+        'jahr': '2024',
+        'datum': '20.7.2024',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvMGNmZmU3ZWEtYzEzMC00NWM4LWI1NTUtMWJiZGQxYTM1NGQ0LVNFTkRVTkdTVklERU8',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '27-06-2024': {
+        'autor': 'Riewa, Jens',
+        'jahr': '2024',
+        'datum': '27.6.2024',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvYmIwYzZkYzMtZjIyMC00Yzg1LWI5ZWQtZjk2YmMyMjhiMmZl',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '14-06-2022': {
+        'autor': 'Sen, Julia-Niharika',
+        'jahr': '2022',
+        'datum': '14.6.2022',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNzJjNmQ4MTItNGQ3OS00OWMzLTlmMjQtNWU0YWY3YjNmYWNlLzE',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '05-12-2023': {
+        'autor': 'Riewa, Jens',
+        'jahr': '2023',
+        'datum': '5.12.2023',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvNjZmOGIwYTQtM2VkNS00ZDg2LTljYWUtNzRmNjExMDc3M2FiLVNFTkRVTkdTVklERU8',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '04-05-2023': {
+        'autor': 'Riewa, Jens',
+        'jahr': '2023',
+        'datum': '4.5.2023',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvYzRlYzYzOWQtODZmZC00NGNiLWE0NDgtMTgxMDExYzE5YjY4LVNFTkRVTkdTVklERU8',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '17-10-2022': {
+        'autor': 'Riewa, Jens',
+        'jahr': '2022',
+        'datum': '17.10.2022',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZWFlZTg2OTctMGY1ZC00NTBhLWExNjctNTY3YzllYzMxOTJiLzE',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '13-10-2023': {
+        'autor': 'Rakers, Judith',
+        'jahr': '2023',
+        'datum': '13.10.2023',
+        'titel': "tagesschau 20:00 Uhr, 13.10.2023'Deutsch' laut Studie im Auftrag der Kultusministerkonferenz",
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvYTUzMmY1ODUtNDAwYy00M2U3LWJmMDYtNzNhY2EzZGU1NGY1LVNFTkRVTkdTVklERU8',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '12-09-2023': {
+        'autor': 'Rakers, Judith',
+        'jahr': '2023',
+        'datum': '12.9.2023',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvMzhhZTBlYmQtNjEzYy00YTQwLWE1ZGEtODczOGEyMGI0NWRjLVNFTkRVTkdTVklERU8',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '11-10-2022': {
+        'autor': 'Rakers, Judith',
+        'jahr': '2022',
+        'datum': '11.10.2022',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNWNiOTg3OWEtZjVlMS00NGEzLWIxYjMtYTQ4YTY5ZWI4ZmMwLzE',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '24-10-2024': {
+        'autor': 'Daubner, Susanne',
+        'jahr': '2024',
+        'datum': '24.10.2024',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvMThlZDc1MDYtZmM2YS00NDEzLWI2MzctNjk4MGY2NzE2NjA5LVNFTkRVTkdTVklERU8',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '16-05-2023': {
+        'autor': 'Daubner, Susanne',
+        'jahr': '2023',
+        'datum': '16.5.2023',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvZjg3YmE1YmMtNGQ0Ni00YWI5LWFmYzctYTdjZGQ4NWNlZDUxX2dhbnplU2VuZHVuZw',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '19-02-2023': {
+        'autor': 'Daubner, Susanne',
+        'jahr': '2023',
+        'datum': '19.2.2023',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNmNiNTJiOWYtYjZmMy00Mjc1LWI2NzAtNmY0ODA3MTllNTFlLzE',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '16-02-2023': {
+        'autor': 'Daubner, Susanne',
+        'jahr': '2023',
+        'datum': '16.2.2023',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMzc3MzhjZTctNjJjOS00MjNhLWE4MjktNjk0OTZiYmEyYTFhLzE',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '02-12-2022': {
+        'autor': 'Daubner, Susanne',
+        'jahr': '2022',
+        'datum': '2.12.2022',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvN2VlYWE0MmItYzdmMS00YmEwLWEyNWItNWY3NjQ2M2U3M2Q5LzE',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '06-11-2023': {
+        'autor': 'Riewa, Jens',
+        'jahr': '2023',
+        'datum': '6.11.2023',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvNGRhYjcxMmEtZjcyZi00MzY4LTg2M2QtYWQ3ZDg3NDkwMzUyLVNFTkRVTkdTVklERU8',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    '26-02-2023': {
+        'autor': 'Sen, Julia-Niharika',
+        'jahr': '2023',
+        'datum': '26.2.2023',
+        'titel': 'Tagesschau',
+        'url': 'https://www.ardmediathek.de/video/tagesschau/tagesschau-20-00-uhr/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZjE1MzgzOTQtMjQxMS00MTNlLWFhYWUtODdkNjlhYWYyYmQ5LzE',
+        'urldate': '1.7.2025',
+        'institution': 'ARD',
+        'type': 'broadcast'
+    },
+    'Verpflichtung_eingehen': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Verpflichtung_eingehen',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=959',
+        'urldate': '06.12.2025',
+        'type': 'frame'
+    },
+    'Verpflichtung_Szenario': {
+        'autor': 'Triesch, Susanne',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Verpflichtung_Szenario',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=212',
+        'urldate': '06.12.2025',
+        'type': 'frame'
+    },
+    'Behandeln_und_Misshandeln': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Behandeln_und_Misshandeln',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=836',
+        'urldate': '06.12.2025',
+        'type': 'frame'
+    },
+    'Personen_nach_Moral': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Personen_nach_Moral',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=46',
+        'urldate': '06.12.2025',
+        'type': 'frame'
+    },
+    'Gesamtheit': {
+        'autor': 'Gehrecke, Fiona',
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Gesamtheit',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=18',
+        'urldate': '06.12.2025',
+        'type': 'frame'
+    },
+    'Erfolg_oder_Fehlschlag': {
+        'jahr': 'o. D.',
+        'institution': 'Heinrich-Heine-Universität Düsseldorf',
+        'titel': 'Erfolg_oder_Fehlschlag',
+        'url': 'https://framenet-constructicon.hhu.de/framenet/frame?id=178',
+        'urldate': '06.12.2025',
+        'type': 'frame'
+    }
+}

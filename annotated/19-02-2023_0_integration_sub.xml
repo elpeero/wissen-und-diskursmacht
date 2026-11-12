@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<text date="19-02-2023" section="Flüchtlinge aus Ukraine entlasten deutschen Arbeitsmarkt"><inst
+        id="" frame="Integration"><element type="fe" frame="Integration" slot="Grund"
+            evokes="Personen_nach_Herkunft|Institutionen|Knappheit||Handel_Szenario" id=""
+            relation="" level="0" parent="">Flüchtlinge aus der Ukraine <element type="fee"
+                frame="Unterstützen" level="1" parent="Integration" slot="" relation=""
+                >helfen</element> laut Bundesagentur für Arbeit , den Personalmangel auf dem
+            Arbeitsmarkt zu lindern .</element>
+        <element type="fe" frame="Integration" slot="Umstände"
+            evokes="Personen_nach_Herkunft|Erwerbstätigkeit|Quantifizierte_Menge" id="" relation=""
+            level="0" parent="">Es seien 65.000 Ukrainerinnen und Ukrainer <element type="fee"
+                frame="Inkrement" level="1" parent="Integration" slot="" relation="">mehr</element>
+            sozialversicherungspflichtig beschäftigt als vor Kriegsbeginn . Hinzu kämen 21.000
+            Minijobs .</element> Bald würden mehr <element type="fe" frame="Integration" slot="Teil"
+            id="" relation="" level="0" parent=""><element type="fee"
+                frame="Erfolgreiche_Vollendung" level="1" parent="Integration" slot="" relation=""
+                >Absolventen</element> von Sprachkursen</element> zur Verfügung stehen . Für die
+            <element type="fee" frame="Integration" level="0" parent="" slot="" relation=""
+            >Eingliederung</element> fordern <element type="fe" frame="Integration" slot="Akteur"
+            evokes="" id="" relation="" level="0" parent=""><element type="fee"
+                frame="Politische_Örtlichkeit" level="1" parent="Integration" slot="" relation=""
+                >Länder und Kommunen</element></element>
+        <element type="fe" frame="Integration" slot="Maßnahmen" evokes="|Institutionen" id=""
+            relation="" level="0" parent=""><element type="fee" frame="Unterstützen" level="1"
+                parent="Integration" slot="" relation="">Hilfen</element> vom Bund</element>
+        .</inst> Mit Kind lebt Juliana Brahina seit einem Jahr in Oechsen ( Thüringen ) . Auch ihr
+    Mann durfte wegen einer Erkrankung ausreisen . <inst id="" frame="Integration"><element
+            type="fe" frame="Integration" slot="Teil" evokes="" id="" relation="" level="0" parent=""><element
+                type="non-fee" frame="" level="1" parent="Integration">Die
+            Brahinas</element></element>
+        <element type="fe" frame="Integration" slot="Umstände" id="" relation="" level="0" parent=""
+            >betreiben eine Internetplattform , mit der sie ukrainische Waren in Deutschland
+                <element type="fee" frame="Handel_Szenario" level="1" parent="Integration" slot=""
+                relation="">vermarkten</element> .</element> Für uns ist das sehr wichtig , <element
+            type="fee" frame="Integration" level="0" parent="" slot="" relation=""
+            >Integrieren</element> . <element type="fe" frame="Integration" slot="Folgen" id=""
+            relation="" level="0" parent="">Und Steuern zu bezahlen und <element type="fee"
+                frame="Erwerbstätigkeit" level="1" parent="Integration" slot="" relation=""
+                >arbeiten</element></element> .</inst>
+(gelöschter Text)
+				<inst id="" frame="Integration">Auch wenn <element type="fe"
+            frame="Integration" slot="Teil" id="" relation="" level="0" parent=""><element
+                type="non-fee" frame="" level="1" parent="Integration">die
+            Brahinas</element></element>
+        <element type="non-fee" frame="" slot="Kategorie" id="" relation="">gut</element>
+        <element type="fee" frame="Integration" level="0" parent="" slot="" relation=""
+            >integriert</element> sind , <element type="fe" frame="Integration" slot="Umstände"
+            evokes="Erwarteter_Standort_der_Person" id="" relation="" level="0" parent="">wollen sie
+            so bald wie möglich in ihre Heimat <element type="fee" frame="Eigenbewegung" level="1"
+                parent="Integration" slot="" relation="">zurückkehren</element></element> .</inst>
+</text>

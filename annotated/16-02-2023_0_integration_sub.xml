@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text date="16-02-2023" section="Integration als Belastungsprobe für kleine Gemeinden">
+    <inst id="" frame="Integration">Die <element type="fe" frame="Integration" slot="Teil" id=""
+            relation="" level="0" parent=""><element type="fee" frame="Geflüchtete" level="1"
+                parent="Integration" slot="" relation="">Menschen , die in Deutschland
+                Schutz</element> suchen</element> , <element type="fe" frame="Integration"
+            slot="Maßnahmen" id="" relation="" level="0" parent="">müssen nicht nur <element
+                type="fee" frame="Unterkunft_Szenario" level="1" parent="Integration" slot="" relation=""
+                >untergebracht werden</element> . Darüber hinaus geht es um <element type="fee"
+                frame="Bildung_Lehre" level="1" parent="Integration" slot="" relation="">Schul - und
+                Kitaplätze . Es geht um Sprachkurse</element> und <element type="fee"
+                frame="Erwerbstätigkeit" level="1" parent="Integration" slot="" relation=""
+                >Jobs</element> .</element> Es geht um <element type="fee" frame="Integration"
+            level="0" parent="" slot="" relation="">Integration</element> . Das ist eine <element
+            type="fe" frame="Integration" slot="Kategorie" evokes="" id="" relation="" level="0"
+            parent=""><element type="fee" frame="Grad_des_Kraftwiderstandes" level="1"
+                parent="Integration" slot="" relation="">Belastungsprobe</element></element> für die
+            <element type="fe" frame="Integration" slot="Ganzes" evokes="" id="" relation=""
+            level="0" parent=""><element type="fee" frame="Politische_Örtlichkeit" level="1"
+                parent="Integration" slot="" relation="">Gemeinden</element></element> .</inst> 
+(gelöschter Text)
+				<inst id="" frame="Integration">Dietenbronn im Kreis Biberach hat 35 Einwohner . In dem
+            <element type="fe" frame="Integration" level="1" parent="" slot="Ganzes"><element
+                type="fee" frame="Politische_Örtlichkeit" level="1" parent="Integration"
+                >Ort</element></element> brodelt es seit Tagen . Direkt neben dem Wohngebiet stand
+        eine Klinik leer . Hier sind <element type="fe" frame="Integration" level="0" parent=""
+            slot="Teil">Geflüchtete</element> untergekommen . Sie kamen zunächst aus der Ukraine .
+        Nun kommen sie auch aus Syrien und aus der Türkei . In Kursen lernen sie erste deutsche
+        Worte . 170 Menschen sind es . Einigen Anwohnern macht das Angst . Es sind nicht so viele
+        Einwohner da , dass <element type="fe" frame="Integration" level="0" parent="" slot="Akteur"
+                ><element type="non-fee" frame="" level="1" parent="Integration" slot=""
+                >man</element></element>
+        <element type="fee" frame="Integration" level="0" parent="" slot="" relation=""
+            >integrieren</element> könnte . Wir haben Wartezeiten von einem Jahr im Kindergarten .
+        Schulen platzen aus allen Nähten . Solche Sorgen nehme man ernst , heißt es im Landratsamt .
+            <element type="fe" frame="Integration" level="0" parent="" slot="Umstände">Doch
+            Unterkünfte seien <element type="fee" frame="Knappheit" level="1" parent="Integration"
+                slot="">knapp</element> . Denkbare Alternativen seien problematisch . Die
+            Alternative dazu ist , die Hallen zu belegen</element> .</inst> 
+(gelöschter Text)
+</text>

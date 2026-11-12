@@ -20,6 +20,9 @@ authors:
     email: peer.scholl@uni-leipzig.de
     affiliation: Universität Leipzig
     orcid: 'https://orcid.org/0009-0008-5062-3341'
+identifiers:
+  - type: doi
+    value: '10.5281/zenodo.24161251'
 repository-code: 'https://elpeero.github.io/diskursmacht-oer/'
 license: CC-BY-NC-SA-4.0
 date-released: '2026-11-12'
